@@ -17,6 +17,6 @@ happyHolidayTo('Christmas', 'Cha')
 
 function holidayCountdown(days, holiday)
 {
+  var days = 
   return `It's ${days} days until ${holiday}!`
 }
-holidayCountdown(10, 'Christmas')
